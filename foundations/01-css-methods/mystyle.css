@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+/* h1 {
+  color: navy;
+  margin-left: 20px;
+} */
+
+div { 
+  display: block;
+  background-color: red;
+  text-align: center;
+  font-size: 32px;
+  color: white;
+}
